@@ -4,7 +4,7 @@ Welcome to the Competitive Programming Class Routine! This repository contains t
 
 ## Class Routine
 
-You can view the detailed class routine by opening the [Routine HTML](./Class-1/Plan.html) file.
+You can view the detailed class routine by opening the [Routine HTML](./Class-1/Plan.md) file.
 
 ## About
 
