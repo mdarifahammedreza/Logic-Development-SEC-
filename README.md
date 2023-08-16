@@ -2,9 +2,9 @@
 
 Welcome to the Competitive Programming Class Routine! This repository contains the class schedule and routine for the Competitive Programming class. The routine is provided in an HTML format for easy reference.
 
-## Class Routine
+## Course Outline
 
-You can view the detailed class routine by opening the [Routine HTML](./Class-1/Plan.md) file.
+You can view the detailed Course Outline by opening the [Course Outline](./Class-1/Plan.md) file.
 
 ## About
 
