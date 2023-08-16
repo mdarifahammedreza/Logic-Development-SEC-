@@ -4,7 +4,7 @@ Welcome to the Competitive Programming Class Routine! This repository contains t
 
 ## Class Routine
 
-You can view the detailed class routine by opening the [Routine HTML](day_1.html) file.
+You can view the detailed class routine by opening the [Routine HTML](./Class-1/routine.html) file.
 
 ## About
 
@@ -17,4 +17,3 @@ To view the class routine, simply click on the [Routine HTML](routine.html) link
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
